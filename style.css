@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    border-radius: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.class{
+    margin-bottom: 30px;
+
+}
+#box2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: none;
+}
+.timer{
+    border-radius: 8px;
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 8%;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+.start{
+    margin-bottom: 30px;
+}
+
